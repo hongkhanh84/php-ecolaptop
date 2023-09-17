@@ -43,14 +43,13 @@ class AuthController extends Controller
     public function callback($provider)
     {
         $data = Socialite::driver($provider)->user();
-
         $user = User::query()->where('email', $data->getEmail())->first();
 
         if (is_null($user)) {
             $user = new User();
             $user->email = $data->getEmail();
         }
-        $user->name = $data->getName();
+        $user->name = $data->getnickname();
         $user->save();
 
         Auth::login($user);
