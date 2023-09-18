@@ -13,7 +13,7 @@ class AuthController extends Controller
     {
         Auth::logout();
 
-        return view('admin.auth.login');
+        return view('admin.Auth.login');
     }
 
     public function logging(LoginRequest $request)
