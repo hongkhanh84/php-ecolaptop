@@ -41,19 +41,19 @@
 <!--  Plugin for Date Time Picker and Full Calendar Plugin-->
 <script src="{{asset('assets')}}/home/js/moment.min.js"></script>
 
-<!--	Plugin for the Sliders, full documentation here: http://refreshless.com/nouislider/ -->
+<!--	Plugin for the Sliders, full documentation here: https://refreshless.com/nouislider/ -->
 <script src="{{asset('assets')}}/home/js/nouislider.min.js" type="text/javascript"></script>
 
-<!--	Plugin for the Datepicker, full documentation here: https://github.com/Eonasdan/bootstrap-datetimepicker -->
+<!--	Plugin for the Datepicker, full documentation here: httpss://github.com/Eonasdan/bootstrap-datetimepicker -->
 <script src="{{asset('assets')}}/home/js/bootstrap-datetimepicker.js" type="text/javascript"></script>
 
-<!--	Plugin for Select, full documentation here: http://silviomoreto.github.io/bootstrap-select -->
+<!--	Plugin for Select, full documentation here: https://silviomoreto.github.io/bootstrap-select -->
 <script src="{{asset('assets')}}/home/js/bootstrap-selectpicker.js" type="text/javascript"></script>
 
-<!--	Plugin for Tags, full documentation here: http://xoxco.com/projects/code/tagsinput/  -->
+<!--	Plugin for Tags, full documentation here: https://xoxco.com/projects/code/tagsinput/  -->
 <script src="{{asset('assets')}}/home/js/bootstrap-tagsinput.js"></script>
 
-<!--	Plugin for Fileupload, full documentation here: http://www.jasny.net/bootstrap/javascript/#fileinput -->
+<!--	Plugin for Fileupload, full documentation here: https://www.jasny.net/bootstrap/javascript/#fileinput -->
 <script src="{{asset('assets')}}/home/js/jasny-bootstrap.min.js"></script>
 
 
