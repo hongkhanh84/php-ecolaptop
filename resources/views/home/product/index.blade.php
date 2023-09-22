@@ -252,7 +252,7 @@
             @if($cate_id===null)
                 _url = window.location.toString();
             @endif
-                _url = _url.replace('http://group17.love/product', '');
+                _url = _url.replace('https://group17.love/product', '');
                 _url = _url.replace('/', '');
 
             $.ajax({
