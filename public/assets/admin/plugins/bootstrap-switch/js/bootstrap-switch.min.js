@@ -3,7 +3,7 @@
   *
   * @version v3.3.4
   * @homepage https://bttstrp.github.io/bootstrap-switch
-  * @author Mattia Larentis <mattia@larentis.eu> (http://larentis.eu)
+  * @author Mattia Larentis <mattia@larentis.eu> (https://larentis.eu)
   * @license Apache-2.0
   */
 

@@ -495,7 +495,7 @@
     input.focus(); // place cursor at end of text in text input
 
     if (input.type !== 'file') {
-      // http://stackoverflow.com/a/2345915
+      // https://stackoverflow.com/a/2345915
       var val = input.value;
       input.value = '';
       input.value = val;
